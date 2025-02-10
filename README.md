@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Visit the site at https://gmail-clone-yyqv.vercel.app/
+
+![image](https://github.com/user-attachments/assets/c56de16d-4923-4062-af48-5a0086ef5ce3)
 
 ## Getting Started
 
